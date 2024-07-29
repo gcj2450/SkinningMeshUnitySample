@@ -1,0 +1,9 @@
+/.vs
+/SkinningMeshUnitySample.sln
+/Library
+/Logs
+/obj
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
